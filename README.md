@@ -1,12 +1,12 @@
 
 👋 About Me:
-Chichi | 20 | MCR, UK - SF, USA
+Chichi | 24 | MCR, UK 
 
-Hey! My name is Chichi - I am a Machine Learning/Data Science Student.
+Hey! My name is Chichi - I am a Computer Science Student.
 
 🚀 Working On:
 Something cool. Will update when ready!
-If you are interested in ML/Software, get in touch!
+If you are interested in AI/Software, get in touch!
 
 👨‍💻 Technologies:
 Python
